@@ -75,8 +75,8 @@ It is vital to verify that the results are correct. You need to check by
 • manually comparing individual values in the files and the results,
 • computing summary statistics from the results, and
 • visualizing the results
-• programmatically verifying the results,
-to ensure they make sense and are correct.
+• programmatically verifying the results, to ensure they make sense and are correct.
 Describe the approaches and processes by which you verified the results.
+
 Identify Assumptions
 State any assumptions you are making about the structure and order of the data, and show how you verified these were true.
